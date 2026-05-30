@@ -1,17 +1,3 @@
-# -----------------------------------------------
-# 🔸 StrangerMusic Project
-# 🔹 Developed & Maintained by: Shashank Shukla (https://github.com/itzshukla)
-# 📅 Copyright © 2022 – All Rights Reserved
-#
-# 📖 License:
-# This source code is open for educational and non-commercial use ONLY.
-# You are required to retain this credit in all copies or substantial portions of this file.
-# Commercial use, redistribution, or removal of this notice is strictly prohibited
-# without prior written permission from the author.
-#
-# ❤️ Made with dedication and love by ItzShukla
-# -----------------------------------------------
-
 import re
 from os import getenv
 from dotenv import load_dotenv
@@ -93,8 +79,8 @@ DEBUG_IGNORE_LOG = True
 
 ###### IMAGE URLS ######
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/ak96mx.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/ak96mx.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/28v3nx.png")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/28v3nx.png")
 PLAYLIST_IMG_URL = "https://files.catbox.moe/lrwbj6.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/ak96mx.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/aesldg.jpg"
@@ -108,13 +94,13 @@ SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/aesldg.jpg"
 
 
 SHASHANK_IMG = [
-    "https://files.catbox.moe/dw0as6.jpg",
-    "https://files.catbox.moe/t2m1pv.jpg",
-    "https://files.catbox.moe/lsbotb.jpg",
-    "https://files.catbox.moe/huuy1f.jpg",
-    "https://files.catbox.moe/7vfivr.jpg",
-    "https://files.catbox.moe/dqtuv2.jpg",
-    "https://files.catbox.moe/ac3tzn.jpg"
+    "https://files.catbox.moe/28v3nx.png",
+    "https://files.catbox.moe/28v3nx.png",
+    "https://files.catbox.moe/28v3nx.png",
+    "https://files.catbox.moe/28v3nx.png",
+    "https://files.catbox.moe/28v3nx.png",
+    "https://files.catbox.moe/28v3nx.png",
+    "https://files.catbox.moe/28v3nx.png"
 ]
 
 
